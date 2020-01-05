@@ -177,22 +177,6 @@
                 "since": null,
                 "updated_at": "2019-12-16T22:09:58.140Z",
                 "year": 2015
-  },
-            {
-                "id": 12,
-                "added": true,
-                "created_at": "2019-12-16T11:39:37.737Z",
-                "driver_img_path": "https://img2.stcrm.it/images/1277934/HOR_STD/x600/4-00040135.jpg",
-                "fleet": "4",
-                "front_img_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZlk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd4e772d8babdb1b9f6f1e93865100a303363a82/IMG_0583.JPG",
-                "km": 1200,
-                "license": "123456k522",
-                "make": "652",
-                "passenger_img_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZlU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec17b61eef523ad4ae560fab8b606409068dd781/IMG_0581.JPG",
-                "rear_img_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZmM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e5633eb9ac802a333a57873b78c6109fb96bb29e/IMG_0527.JPG",
-                "since": null,
-                "updated_at": "2019-12-19T09:59:47.961Z",
-                "year": 2010
   }
 ],
         "contact_name": "Contractor 227"

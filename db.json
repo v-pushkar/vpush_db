@@ -193,22 +193,6 @@
                 "since": null,
                 "updated_at": "2019-12-19T09:59:47.961Z",
                 "year": 2010
-  },
-            {
-                "id": 11,
-                "added": true,
-                "created_at": "2019-12-13T22:31:14.485Z",
-                "driver_img_path": "https://www.sprzeglo.com.pl/content/images/models_images/4757.jpg",
-                "fleet": "1",
-                "front_img_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZUE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77f22b0108b004d22472e21abdb57d93305426e8/468428523_w640_h640_stroitelnye-materialy-v.jpg",
-                "km": 200,
-                "license": "4152631",
-                "make": "123",
-                "passenger_img_path": null,
-                "rear_img_path": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a24c29a5b33abbde969380ee8605e5c9af017bd2/slide1.png",
-                "since": null,
-                "updated_at": "2019-12-16T21:06:55.933Z",
-                "year": 2012
   }
 ],
         "contact_name": "Contractor 227"
